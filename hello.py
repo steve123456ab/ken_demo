@@ -7,3 +7,6 @@ def func():
 func()
 func()
 print(func)
+def f1(a):
+   print('The number is',a)
+f1(100)
