@@ -5,3 +5,4 @@ def func():
    print('aaa')
    return 0
 func()
+func()
