@@ -6,3 +6,4 @@ def func():
    return 0
 func()
 func()
+print(func)
